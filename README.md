@@ -2,6 +2,11 @@
 
 Learning and getting familiar with using Foundry. Beginning with SimpleStorage, a simple smart contract that stores and displays variables to users.
 
+Deployed contract to Sepolia Testnet using forge scripts and broadcasting.
+Saved private key using `cast wallet` for better security.
+
+Contract address: [0x57B6aDCe8344c35a87e1De39ae4Dba437Ef4CE06](https://sepolia.etherscan.io/address/0x57B6aDCe8344c35a87e1De39ae4Dba437Ef4CE06)
+
 ## Foundry - SimpleStorage
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
